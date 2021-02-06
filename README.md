@@ -1,6 +1,6 @@
-# widget_testing_101
+# Flutter Testing 101
 
-A new Flutter project.
+This is a simple application for flutter testing and this project includes unit testing and widget testing. 
 
 ## Getting Started
 
